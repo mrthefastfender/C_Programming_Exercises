@@ -31,5 +31,8 @@
 # Debug files
 *.dSYM/
 
-#edit saves
+#temp saves
 *.c~
+
+#compiled
+*.
